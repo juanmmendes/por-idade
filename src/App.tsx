@@ -66,12 +66,12 @@ export default function App() {
         </div>
       </section>
 
-      {/* Para quem é */}
+      {/* Principais dúvidas na Aposentadoria por Idade */}
       <section className="bg-gray-50">
         <div className="mx-auto max-w-7xl px-4 py-12 grid md:grid-cols-3 gap-6">
           <div className="md:col-span-1">
-            <h2 className="text-2xl font-semibold">Para quem é</h2>
-            <p className="mt-2 text-gray-600">Situações comuns que atendemos no dia a dia:</p>
+            <h2 className="text-2xl font-semibold">Principais dúvidas na Aposentadoria por Idade</h2>
+            <p className="mt-2 text-gray-600">Situações comuns que ocorrem com os segurados do NSS:</p>
           </div>
           <ul className="md:col-span-2 grid gap-3 text-gray-800">
             <li className="rounded-2xl bg-white p-4 shadow-sm">Tem idade mínima, mas não sabe se completou os <strong>15 anos (180 contribuições)</strong>.</li>
@@ -151,12 +151,12 @@ export default function App() {
         </div>
       </section>
 
-      {/* Como podemos ajudar (sem promessas) */}
+      {/* Como um Advogado especialista pode ajudar? (sem promessas) */}
       <section className="bg-emerald-50">
         <div className="mx-auto max-w-7xl px-4 py-12 grid md:grid-cols-3 gap-6">
           <div className="md:col-span-1">
-            <h2 className="text-2xl font-semibold">Como podemos ajudar</h2>
-            <p className="mt-2 text-gray-700">Atuação jurídica técnica e responsável, conforme normas da OAB.</p>
+            <h2 className="text-2xl font-semibold">Como um Advogado especialista pode ajudar?</h2>
+            <p className="mt-2 text-gray-700">Atuação jurídica técnica e responsável, agiliza todo o processo de aposentadoria</p>
           </div>
           <ul className="md:col-span-2 grid gap-3">
             <li className="rounded-2xl border p-4">Análise do CNIS e de documentos, com identificação de pendências.</li>
@@ -358,7 +358,7 @@ export default function App() {
           <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
             <div className="flex items-center gap-3">
               <a href="https://www.facebook.com/marinhomendesadv" target="_blank" rel="noreferrer noopener" aria-label="Facebook"><Facebook size={18} aria-hidden="true" /></a>
-              <a href="https://www.instagram.com/marinhomendesadv" target="_blank" rel="noreferrer noopener" aria-label="Instagram"><Instagram size={18} aria-hidden="true" /></a>
+              <a href="https://www.instagram.com/marinhomendes.adv" target="_blank" rel="noreferrer noopener" aria-label="Instagram"><Instagram size={18} aria-hidden="true" /></a>
               <a href="https://www.linkedin.com/company/14030512/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn"><Linkedin size={18} aria-hidden="true" /></a>
             </div>
             <div className="flex gap-4">
