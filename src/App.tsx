@@ -71,7 +71,7 @@ export default function App() {
         <div className="mx-auto max-w-7xl px-4 py-12 grid md:grid-cols-3 gap-6">
           <div className="md:col-span-1">
             <h2 className="text-2xl font-semibold">Principais dúvidas na Aposentadoria por Idade</h2>
-            <p className="mt-2 text-gray-600">Situações comuns que ocorrem com os segurados do NSS:</p>
+            <p className="mt-2 text-gray-600">Situações comuns que ocorrem com os segurados do INSS:</p>
           </div>
           <ul className="md:col-span-2 grid gap-3 text-gray-800">
             <li className="rounded-2xl bg-white p-4 shadow-sm">Tem idade mínima, mas não sabe se completou os <strong>15 anos (180 contribuições)</strong>.</li>
