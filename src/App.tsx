@@ -8,7 +8,7 @@ export default function App() {
       <header className="sticky top-0 z-40 border-b bg-white/90 backdrop-blur">
         <div className="mx-auto max-w-7xl px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <img src="images/Logo.png" alt="Logo Marinho Mendes" className="h-9 w-9 rounded-2xl object-contain bg-emerald-50" />
+            <img src="images/Logo.png" alt="Logo Marinho Mendes" className="h-12 w-12 md:h-14 md:w-14 rounded-2xl object-contain bg-emerald-50 shrink-0" />
             <div className="leading-tight">
               <p className="font-semibold">Marinho Mendes Sociedade de Advogados</p>
               <p className="text-xs text-gray-500">Atuação nacional • Atendimento mediante agendamento</p>
