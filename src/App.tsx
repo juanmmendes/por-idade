@@ -49,13 +49,8 @@ export default function App() {
                 Ver requisitos (2025)
               </a>
               <a href="#form" className="inline-flex items-center justify-center rounded-2xl border px-5 py-3 font-medium hover:bg-gray-50">
-                Enviar meus dados com segurança
+                Fale com um especialista
               </a>
-            </div>
-            <div className="mt-6 grid grid-cols-1 sm:grid-cols-3 gap-3 text-sm">
-              <div className="rounded-2xl border p-3">Atendimento humanizado</div>
-              <div className="rounded-2xl border p-3">Análise documental</div>
-              <div className="rounded-2xl border p-3">Orientação jurídica responsável</div>
             </div>
           </div>
           <div className="relative">
@@ -176,7 +171,7 @@ export default function App() {
       <section id="form">
         <div className="mx-auto max-w-3xl px-4 py-12">
           <div className="rounded-3xl border p-6 md:p-8">
-            <h2 className="text-2xl font-semibold">Envie seus dados com segurança</h2>
+            <h2 className="text-2xl font-semibold">Fale com um especialista</h2>
             <p className="mt-2 text-gray-600">Usaremos as informações para entender sua situação e retornar o contato.</p>
             <form className="mt-6 grid grid-cols-1 gap-4" onSubmit={(e)=>e.preventDefault()}>
               <div>
@@ -291,7 +286,7 @@ export default function App() {
                     <Facebook size={18} aria-hidden="true" />
                     <span className="sr-only">Facebook</span>
                   </a>
-                  <a className="inline-flex items-center gap-2 hover:underline" href="https://www.instagram.com/marinhomendesadv" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
+                  <a className="inline-flex items-center gap-2 hover:underline" href="https://www.instagram.com/marinhomendes.adv" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
                     <Instagram size={18} aria-hidden="true" />
                     <span className="sr-only">Instagram</span>
                   </a>
