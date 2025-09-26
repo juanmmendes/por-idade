@@ -1,0 +1,22 @@
+﻿{
+  "name": "Marinho Mendes Sociedade de Advogados",
+  "short_name": "Marinho Mendes",
+  "start_url": "/por-idade/",
+  "scope": "/por-idade/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#047857",
+  "description": "Aposentadoria por idade urbana 2025 - Marinho Mendes Sociedade de Advogados",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
